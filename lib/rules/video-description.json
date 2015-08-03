@@ -9,7 +9,7 @@
   ],
   "metadata": {
     "description": "Ensures that every <video> tag has an audio description",
-    "helpUrl": "https://dequeuniversity.com/courses/html-css/video-audio-multimedia/",
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3962",
     "help": "HTML5 video elements need an audio description track"
   },
   "all": [],

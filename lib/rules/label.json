@@ -10,7 +10,7 @@
   ],
   "metadata": {
     "description": "Ensures that every input element that requires a label, has an appropriate label",
-    "helpUrl": "https://dequeuniversity.com/courses/html-css/forms/form-labels",
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3945",
     "help": "Form elements must have labels"
   },
   "all": [],

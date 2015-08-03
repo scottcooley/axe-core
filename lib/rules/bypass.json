@@ -11,7 +11,7 @@
   ],
   "metadata": {
     "description": "Ensures that each page has at least one mechanism for a keyboard-only user to bypass the navigation and jump straight to the content",
-    "helpUrl": "https://dequeuniversity.com/courses/html-css/navigation/",
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3930",
     "help": "Page must have means to bypass content"
   },
   "all": [],

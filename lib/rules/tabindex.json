@@ -6,7 +6,7 @@
   ],
   "metadata": {
     "description": "Ensures that explicit tabindex attributes that are greater than 0 are never used",
-    "helpUrl": "https://dequeuniversity.com/courses/html-css/device-independence/keyboard-tab-order",
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3959",
     "help": "Elements must not have tabindex greater than zero"
   },
   "all": [],

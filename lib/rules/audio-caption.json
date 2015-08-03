@@ -9,7 +9,7 @@
     "section508a"
   ],
   "metadata": {
-    "helpUrl": "https://dequeuniversity.com/issues/audio-caption",
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3927",
     "description": "Checks the use of all <audio> element to ensure that the element contains a <caption> element",
     "help": "HTML5 <audio> elements need a captions track"
   },

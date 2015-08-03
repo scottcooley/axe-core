@@ -9,7 +9,7 @@
     "section508a"
   ],
   "metadata": {
-    "helpUrl": "https://dequeuniversity.com/courses/html-css/images/image-maps",
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3919",
     "help": "Active <area> elements need alternate text",
     "description": "Checks the <area> elements of image maps to ensure that they have an alternative text"
   },

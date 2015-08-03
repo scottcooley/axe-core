@@ -7,7 +7,7 @@
   ],
   "metadata": {
     "description": "Ensures that when the 'lang' attribute is used, it has a valid value",
-    "helpUrl": "https://dequeuniversity.com/courses/html-css/structure-and-semantics/language#id35__language_codes",
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3960",
     "help": "lang attribute must have a valid value"
   },
   "all": [],

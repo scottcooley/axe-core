@@ -7,7 +7,7 @@
   ],
   "metadata": {
     "description": "Ensure that the order in which the headings appear in the DOM is semantically correct",
-    "helpUrl": "https://dequeuniversity.com/courses/html-css/structure-and-semantics/headings#id37_use_headings_in_order",
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3940",
     "help": "Heading levels must only increase by one"
   },
   "all": [],

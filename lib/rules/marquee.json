@@ -9,7 +9,7 @@
   ],
   "metadata": {
     "description": "Ensures that the deprecated <marquee> tag is not used",
-    "helpUrl": "https://dequeuniversity.com/courses/html-css/visual-layout/fonts-and-typography#id55_avoid_blink_marquee",
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3950",
     "help": "<marquee> elements are deprecated and must not be used"
   },
   "all": [],

@@ -7,7 +7,7 @@
   ],
   "metadata": {
     "description": "Ensures that each element on the page with an ID attribute has a unique ID attribute value",
-    "helpUrl": "https://dequeuniversity.com/courses/html-css/robust-compatibility/markup-validation",
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3937",
     "help": "ID attribute value must be unique"
   },
   "all": [],

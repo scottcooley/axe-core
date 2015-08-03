@@ -8,7 +8,7 @@
   "metadata": {
     "description": "Checks all elements that contain the WAI-ARIA role attribute to ensure that the role value is valid",
     "help": "ARIA roles used must conform to valid values",
-    "helpUrl": "https://dequeuniversity.com/issues/aria-roles"
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3924"
   },
   "all": [],
   "any": [],

@@ -5,7 +5,7 @@
     "wcag411"
   ],
   "metadata": {
-    "helpUrl": "https://dequeuniversity.com/issues/aria-valid-attr-value",
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3925",
     "description": "Checks all elements that contain WAI-ARIA atributes to ensure that the values of the attributes are valid",
     "help": "ARIA attributes used must conform to valid values"
   },

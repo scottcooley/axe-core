@@ -7,7 +7,7 @@
   ],
   "metadata": {
     "description": "Ensures that each element on the page with an accesskey attribute has a unique value",
-    "helpUrl": "https://dequeuniversity.com/courses/html-css/robust-compatibility/markup-validation",
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3914",
     "help": "accesskey attribute value must be unique"
   },
   "all": [],

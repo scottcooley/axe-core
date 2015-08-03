@@ -8,7 +8,7 @@
   ],
   "metadata": {
     "description": "Ensures that the scope attribute is used correctly on tables",
-    "helpUrl": "https://dequeuniversity.com/courses/html-css/data-tables/row-and-column-headers#id81_associate_header_cells_with_data_cells",
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3956",
     "help": "scope attribute is used correctly"
   },
   "all": [],

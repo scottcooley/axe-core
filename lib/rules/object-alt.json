@@ -8,7 +8,7 @@
   "metadata": {
     "description": "Ensures that every <object> element has a text alternative",
     "help": "An embedded object must have a text alternative",
-    "helpUrl": "https://dequeuniversity.com/issues/object-alt"
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3953"
   },
   "all": [],
   "any": [

@@ -9,7 +9,7 @@
   "metadata": {
     "description": "Ensures that all content on a page is contained within a landmark region",
     "help": "Content must be contained in a region",
-    "helpUrl": "https://dequeuniversity.com/courses/html-css/navigation/html5-aria-landmarks"
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3955"
   },
   "all": [],
   "any": [

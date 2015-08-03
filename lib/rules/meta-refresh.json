@@ -11,7 +11,8 @@
   ],
   "metadata": {
     "description": "Ensures that <meta> refresh is not used",
-    "help": "Timed refresh must not exist"
+    "help": "Timed refresh must not exist",
+ "helpUrl": "https://dequeuniversity.com/index.php?id=3951"
   },
   "all": [],
   "any": [

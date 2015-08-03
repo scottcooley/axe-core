@@ -7,7 +7,7 @@
   ],
   "metadata": {
     "description": "Ensure that all iframe and frame elements contain a unique and non-empty title attribute",
-    "helpUrl": "https://dequeuniversity.com/courses/html-css/frames/titles",
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3939",
     "help": "Frames must have unique title attribute"
   },
   "all": [],

@@ -7,7 +7,7 @@
   ],
   "metadata": {
     "description": "Checks all elements that contain WAI-ARIA roles to ensure that all required aria- attributes are present",
-    "helpUrl": "https://dequeuniversity.com/courses/html-css/forms/special-input-attributes",
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3921",
     "help": "ARIA attribute not provided for element with given role"
   },
   "all": [],

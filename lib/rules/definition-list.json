@@ -8,7 +8,7 @@
   "metadata": {
     "description": "Ensures that all <dl> elements are structured correctly",
     "help": "<dl> elements must contain properly-ordered <dt> and <dd> elements",
-    "helpUrl": "https://dequeuniversity.com/issues/definition-list"
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3934"
   },
   "all": [],
   "any": [],

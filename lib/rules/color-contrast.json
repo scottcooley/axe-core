@@ -8,7 +8,7 @@
   "metadata": {
     "description": "Checks all elements to ensure that the contrast between the foreground and the background meets the WCAG 2 AA contrast ratio thresholds.",
     "help": "Elements must have sufficient color contrast",
-    "helpUrl": "https://dequeuniversity.com/courses/html-css/visual-layout/color-contrast"
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3932"
   },
   "all": [],
   "any": [

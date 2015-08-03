@@ -9,7 +9,7 @@
   ],
   "metadata": {
     "description": "Ensures that every <img> element has alternative text or is marked as none or presentational",
-    "helpUrl": "https://dequeuniversity.com/courses/html-css/images/alt-text",
+    "helpUrl": "https://dequeuniversity.com/index.php?id=3942",
     "help": "Images must have alternate text"
   },
   "all": [],
